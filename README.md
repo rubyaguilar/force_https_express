@@ -1,6 +1,8 @@
 # force_https_express
-If you have an SSL certificate, why doesn't it forward to HTTP? Don't fret, use this code in your Web Server
-
+If you have an SSL certificate, why doesn't it forward to HTTPS? Don't waste time calling GoDaddy, Namecheap, or whoever your DNS server is. <br />
+Use this code in your Web Server<br />
+<br />
+This is just my working server.js that worked on my project [rabblemedia.vote](rabblemedia.vote)
 Code is from: (https://www.npmjs.com/package/express-force-https)
 
-However, was having issues configuring. This is my working server.js that worked on my project (rabblemedia.vote)
+However, was having issues configuring. 
