@@ -2,7 +2,6 @@ var EXPRESS = require('express');
 var secure = require('express-force-https'); //Import
 
 const APP = EXPRESS();
-require('dotenv').config({path:'./client/.env'})
 
 
 APP.use(secure) //Set htttps
