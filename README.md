@@ -4,6 +4,7 @@ If you have an SSL certificate, why doesn't it forward to HTTPS? Don't waste tim
 ## Use this code in your Web Server<br />
 This is just my working `server.js` that worked on my project [rabblemedia.vote](https://rabblemedia.vote) <br />
 <br />
+Assuming you have a running React projec. 
 Code is from: <br /> (https://www.npmjs.com/package/express-force-https)
 
 
